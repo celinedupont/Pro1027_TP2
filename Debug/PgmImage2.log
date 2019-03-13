@@ -1,0 +1,21 @@
+﻿  DialogImage.cpp
+d:\dropbox\uqtr\pro1027\tp\tp2\traitementimagepgm-h19\pgmimage2\dialogimage.cpp(135): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\dropbox\uqtr\pro1027\tp\tp2\traitementimagepgm-h19\pgmimage2\dialogimage.cpp(137): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\dropbox\uqtr\pro1027\tp\tp2\traitementimagepgm-h19\pgmimage2\dialogimage.cpp(268): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+d:\dropbox\uqtr\pro1027\tp\tp2\traitementimagepgm-h19\pgmimage2\dialogimage.cpp(299): warning C4305: 'initializing': truncation from 'double' to 'float'
+d:\dropbox\uqtr\pro1027\tp\tp2\traitementimagepgm-h19\pgmimage2\dialogimage.cpp(308): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\dropbox\uqtr\pro1027\tp\tp2\traitementimagepgm-h19\pgmimage2\dialogimage.cpp(344): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+d:\dropbox\uqtr\pro1027\tp\tp2\traitementimagepgm-h19\pgmimage2\dialogimage.cpp(402): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\dropbox\uqtr\pro1027\tp\tp2\traitementimagepgm-h19\pgmimage2\dialogimage.cpp(412): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+d:\dropbox\uqtr\pro1027\tp\tp2\traitementimagepgm-h19\pgmimage2\dialogimage.cpp(422): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\dropbox\uqtr\pro1027\tp\tp2\traitementimagepgm-h19\pgmimage2\dialogimage.cpp(442): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\dropbox\uqtr\pro1027\tp\tp2\traitementimagepgm-h19\pgmimage2\dialogimage.cpp(443): warning C4101: 'stop': unreferenced local variable
+d:\dropbox\uqtr\pro1027\tp\tp2\traitementimagepgm-h19\pgmimage2\dialogimage.cpp(465): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\dropbox\uqtr\pro1027\tp\tp2\traitementimagepgm-h19\pgmimage2\dialogimage.cpp(468): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+d:\dropbox\uqtr\pro1027\tp\tp2\traitementimagepgm-h19\pgmimage2\dialogimage.cpp(540): warning C4244: '+=': conversion from 'float' to 'int', possible loss of data
+d:\dropbox\uqtr\pro1027\tp\tp2\traitementimagepgm-h19\pgmimage2\dialogimage.cpp(578): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+d:\dropbox\uqtr\pro1027\tp\tp2\traitementimagepgm-h19\pgmimage2\dialogimage.cpp(580): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  MainFrm.cpp
+  Generating Code...
+DialogImage.obj : warning LNK4075: ignoring '/EDITANDCONTINUE' due to '/INCREMENTAL:NO' specification
+  PgmImage2.vcxproj -> D:\Dropbox\UQTR\PRO1027\TP\tp2\TraitementImagePGM-H19\PgmImage2\.\Debug\PgmImage2.exe
